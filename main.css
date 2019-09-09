@@ -1,0 +1,19 @@
+body{
+  background-image: url("./img/iphone.jpg");
+	background-repeat: no-repeat;
+	background-size: 115%;
+	background-position: top;
+	margin-top: 130px;
+	padding-top: 35px;
+	padding-right: 10px;
+}
+
+
+canvas{
+	border: 1px solid black;
+	border-radius: 12px;
+	display: block;
+	margin: 0 auto;
+	width: 320px;
+	height: 480px;
+}
